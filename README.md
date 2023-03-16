@@ -13,7 +13,7 @@ To design casing for transporting vaccines , serums , blood samples in a contro
 
 <centre>![image](https://user-images.githubusercontent.com/68050861/225622905-78319519-3232-4330-9e4a-43edfc78d735.png)</centre>
 
-###First Version of Prototype (POC)
+### First Version of Prototype (POC)
 
 <centre>![image](https://user-images.githubusercontent.com/70406505/216823519-b8d5a0dd-4870-45e6-9476-7f7e638767e0.png)</centre>
 
